@@ -6,11 +6,6 @@ using Scrypt;
 using DUCK.Crypto;
 using Lasm.Bolt.UniversalSaver;
 using System.IO;
-using static XRUIOS_OS.XRUIOS.Socials;
-using Unity.VisualScripting;
-using static PariahCybersec.MainPasswordHandler;
-using BestHTTP.SecureProtocol.Org.BouncyCastle.Asn1.Mozilla;
-using System.Collections;
 using System.Threading.Tasks;
 
 public class PariahCybersec : MonoBehaviour
